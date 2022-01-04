@@ -1,6 +1,6 @@
 /*This stylesheet contains some custom class rather than Bootstrap*/
 .headt td {
-	min-width: 100px;
+	min-width: 15px;
 	height: 45px;
 	
   }	
