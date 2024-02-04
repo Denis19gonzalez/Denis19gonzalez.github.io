@@ -36,7 +36,7 @@ a.brand img {
 }
 a.hire-me {
 	display: inline-block;
- *display: inline;
+
 	padding:20px 60px;
 	background:#39d084;
 	color:#fff;
@@ -103,7 +103,7 @@ ul.social-icons li a:hover {
 	background:#ee742b;
 }
 .skills .html {
-	background:#f04949;
+	background:#ee6060;
 }
 .skills .css {
 	background:#39d084;
@@ -158,7 +158,7 @@ ul.social-icons li a:hover {
 }
 .html2 {
 	width:75%;
-	background:#f04949;
+	background:#ee6060;
 	-moz-animation:jquery 2s ease-out;
 	-webkit-animation:jquery 2s ease-out;
 }
